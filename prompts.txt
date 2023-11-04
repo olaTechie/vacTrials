@@ -1,0 +1,29 @@
+read json file called vactrials.json, summarise the rows following information from below 1 to 24, output as a table format, format output neatly
+
+
+
+1.	Study Identifier (NCT Number)
+2.	Title (Study Title)
+3.	First author: 
+4.	Publication year: 
+5.	Study period: 
+6.	Country sites: Countries with the most running vaccine clinical trials in Africa.
+7.	Trial methods of recruitment: such notices, media, advice, hospitals, etc.
+8.	Settings:
+9.	Study designs: clinical trials, open clinical trials, single-blind clinical trials, double-blind etc
+10.	Registered clinical trials bodies: Clinicaltrials.gov, etc
+11.	Clinical trials phases: phases 1, 1/2, 2, 2/3, 3, and 4.
+12.	Populations studied: adults, children, adolescents, pregnant women, immunocompromised people, and people of advanced age.
+13.	Interventions: parallel, single-group, and sequential assignments.
+14.	Conditions studied: any African conditions for which vaccinations are utilized will be included.
+15.	Vaccine name:
+16.	Types of vaccines: inactivated vaccines, live-attenuated vaccines, messenger RNA (mRNA) vaccines, etc
+17.	Vaccine outcomes: immunogenicity, efficacy, effectiveness, safety, delivery, and acceptability.
+18.	Main limitations: 
+19.	Sample size
+20.	Percentage female:
+21.	Proportion of loss to follow-up:
+22.	Summary (main Results)
+23.	Manufacturer Type
+24.	Source of Funding
+
